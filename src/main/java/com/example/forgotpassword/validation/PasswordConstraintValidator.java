@@ -1,4 +1,4 @@
-package com.example.forgotpassword.service;
+package com.example.forgotpassword.validation;
 
 import jakarta.validation.ConstraintValidator;
 import jakarta.validation.ConstraintValidatorContext;
